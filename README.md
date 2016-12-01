@@ -1,4 +1,4 @@
-# fuxwitfacists
+# fuxwitnazis
 ## Goal
 There's this site to list professors with "anti American values"/who challenge facism. They crowd-source the data (you "report acts of discrimination") but I can't imagine how they'd curate the final results without humans.
 
